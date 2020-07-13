@@ -3,6 +3,8 @@ ________________________________________________________________________________
 
 Explanation: https://www.youtube.com/watch?v=EcancF7NA6I&feature=youtu.be
 
+we have two choices for a given item in the nums: weather to include it in our subset or not
+So, if we have 2 choices for each of the 𝑛 elements,the total number of subsets possible is 2**n.
 ____________________________________________________________________________________________________________________________________________
 
 Code:
